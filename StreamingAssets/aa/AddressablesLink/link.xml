@@ -13,9 +13,9 @@
     <type fullname="ToggleSoundController" preserve="all" />
     <type fullname="ToggleSoundMobile" preserve="all" />
     <type fullname="UISwitcher.UISwitcher" preserve="all" />
-    <type fullname="SetSlidersActive" preserve="nothing" serialized="true" />
     <type fullname="UISwitcher.NullableValueChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="UISwitcher.ValueChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="SetSlidersActive" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Elringus.Naninovel.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Naninovel.BacklogMessage" preserve="all" />
@@ -116,25 +116,6 @@
     <type fullname="Naninovel.UI.ToastUI" preserve="all" />
     <type fullname="Naninovel.UI.TypingIndicator" preserve="all" />
     <type fullname="Naninovel.UI.VariableInputPanel" preserve="all" />
-    <type fullname="Naninovel.CommandScriptLine" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.AddChoice" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.AutoSave" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.Goto" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.HideAllCharacters" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.HidePrinter" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.ModifyBackground" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.ModifyCharacter" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.PlayBgm" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.PrintText" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.SetCustomVariable" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.Stop" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.Wait" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.CommentScriptLine" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.EmptyScriptLine" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.GenericTextScriptLine" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.LabelScriptLine" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.ProcessInput" preserve="nothing" serialized="true" />
-    <type fullname="Naninovel.Commands.Spawn" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.UI.ToastAppearance/TextChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.ManagedTextProvider/ValueChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.StringUnityEvent" preserve="nothing" serialized="true" />
@@ -156,6 +137,25 @@
     <type fullname="Naninovel.UI.RevealableTextPrinterPanel/AuthorChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.UI.ChatMessage/MessageTextChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="Naninovel.ReactToAspectRatio/ThresholdReachedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.CommandScriptLine" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.SetCustomVariable" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.Stop" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.CommentScriptLine" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.EmptyScriptLine" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.AddChoice" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.AutoSave" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.Goto" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.HideAllCharacters" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.HidePrinter" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.ModifyBackground" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.ModifyCharacter" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.PlayBgm" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.PrintText" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.ProcessInput" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.Spawn" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.Commands.Wait" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.GenericTextScriptLine" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.LabelScriptLine" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
